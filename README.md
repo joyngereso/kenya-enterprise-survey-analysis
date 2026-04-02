@@ -132,7 +132,7 @@ The complete written report is available in the `/report` folder. It covers:
 
 Hi, I'm **Joy Ngereso** — an economist/ data analyst passionate about using data to uncover insights that matter, especially around gender equity, economic development, and enterprise growth in Kenya and Africa.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/joyngereso-229004270)
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/joy-ngereso-229004270)
 - 📧 Reach out via GitHub or LinkedIn
 
 ---
