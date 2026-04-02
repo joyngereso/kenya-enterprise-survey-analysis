@@ -50,7 +50,7 @@ kenya-enterprise-survey-analysis/
 │   └── Output26.spv                             # SPSS output viewer file
 │
 ├── report/
-│   └── Kenya_Enterprise_Survey_Analysis_Report.docx  # Full written report
+│   └── Kenya_Enterprise_Survey_Analysis_ReportJOJO.docx  # Full written report
 │
 └── README.md
 ```
